@@ -1,0 +1,30 @@
+/* ONLY STYLE CSS*/
+* {
+        box-sizing: border-box;
+    }
+body {
+    color: #707070;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+section {
+    padding: 60px 0;
+}
+p, .form-check-label {
+    font-size: 15px;
+    line-height: 25px;
+}
+h2 {
+    margin-bottom: 1.5rem;
+}
+.background-width {
+    background-color: #FAFAFA;
+    margin: auto;
+    padding-top: 60px;
+    width: 80%;
+}    
+.container {
+    background-color: #FAFAFA;
+    font-size: 12px;
+}
+/* Finish of only style CSS */
